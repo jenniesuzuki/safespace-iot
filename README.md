@@ -23,7 +23,7 @@ A visualização no dashboard é feita com um Gráfico Donut (Heart Rate), exibi
 
 ### Protótipo Wokwi
 
-![Wokwi](./images/circuito.png)
+![Wokwi](./images/wokwi.png)
 
 ### Fluxo Node-Red
 
