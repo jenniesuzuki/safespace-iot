@@ -39,7 +39,7 @@ Broker MQTT: broker.hivemq.com
 
 Porta: 1883
 
-Tópico utilizado: iot/esp32/heart
+Tópico: iot/esp32/heart
 
 1. Abra o projeto no [Wokwi](https://wokwi.com/projects/432700227558135809) e execute.
 
@@ -53,7 +53,7 @@ npm install -g node-red
 node-red
 ```
 
-3. No canto superior direito, clique em importar, e importe o arquivo [flows](./flows.json) para o Node-Red.
+3. Após inicializar o Node-red, no canto superior direito, clique em importar, e importe o arquivo [flows](./flows.json) para o Node-Red.
 
 4. Clique em implementar, para executar o fluxo.
 
