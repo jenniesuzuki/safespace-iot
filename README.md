@@ -15,9 +15,9 @@ O fluxo do Node-Red recebe os dados do batimento cardíaco via MQTT, realizando 
 ### 3. Dashboard do Node-Red
 
 A visualização no dashboard é feita com um Gráfico Donut (Heart Rate), exibindo o valor atual em um gauge dividido em 3 possíveis cores:
-    - Verde: Normal
-    - Amarelo: Atenção
-    - Vermelho: Crítico
+- Verde: Normal
+- Amarelo: Atenção
+- Vermelho: Crítico
 
 ## Imagens ilustrativas
 
